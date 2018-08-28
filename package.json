@@ -1,0 +1,19 @@
+{
+  "name": "pensivearchitect.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "foundation-sites": "^6.5.0-rc.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "bulma": "^0.7.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3",
+    "parcel-bundler": "^1.9.7"
+  },
+  "alias": {
+    "bulma": "./node_modules/bulma/bulma.sass"
+  }
+}
